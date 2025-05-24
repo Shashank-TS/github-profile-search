@@ -13,7 +13,7 @@ This is a simple web application built with React.js that allows users to search
 ### 🌐 Live Demo
 ---
 
-👉 [Click here to view the live app](https://weather-app-using-reactjs-by-shashank.netlify.app/)
+👉 [Click here to view the live app](https://github-profile-search-ts.netlify.app/)
 
 ## 🔧 Technologies Used
 
